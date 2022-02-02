@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "วิสตร้า โกตูโคลา เอ็กซ์แทร็คซ์ พลัส ซิงก์ 14 Capsules",
+    "img": "https://i.imgur.com/9yk2hm1.jpeg",
+    "barcode": "8851515605950",
+    "costprice": 50,
+    "price": 99,
+    "category": "อาหารเสริม"
+  },
+  {
+    "id": 2,
+    "name": "วิสทร้า น้ำมันปลาแซลมอล 1000mg",
+    "img": "https://i.imgur.com/ki1JDnu.jpeg",
+    "barcode": "8858990804830",
+    "costprice": 100,
+    "price": 149,
+    "category": "อาหารเสริม"
+  },
+  {
+    "id": 3,
+    "name": "วิตมินซี 60 Capsule",
+    "img": "https://i.imgur.com/sVd5wvR.jpeg",
+    "barcode": "4511413404133",
+    "costprice": 150,
+    "price": 199,
+    "category": "อาหารเสริม"
+  },
+  {
+    "id": 4,
+    "name": "ยาแคปซูลฟ้าทะลายโจร",
+    "img": "https://i.imgur.com/Cc30h5P.jpeg",
+    "barcode": "8855539010165",
+    "costprice": 50,
+    "price": 99,
+    "category": "ยารักษาโรค"
+  },
+  {
+    "id": 5,
+    "name": "คอลลาเจน ซิงก์ และ วิตามินซี",
+    "img": "https://i.imgur.com/ghjYn3b.jpeg",
+    "barcode": "8859524501416",
+    "costprice": 5,
+    "price": 15,
+    "category": "อาหารเสริม"
+  },
+  {
+    "id": 6,
+    "name": "หน้ากากอนามัยเพื่อสุขภาพ",
+    "img": "https://i.imgur.com/V3Ypo7t.jpeg",
+    "barcode": "8852951000088",
+    "costprice": 10,
+    "price": 20,
+    "category": "อื่นๆ"
+  },
+  {
+    "id": 7,
+    "name": "THAYERS FACIAL TONER 355ml",
+    "img": "https://i.imgur.com/IilhzSz.jpeg",
+    "barcode": "041507070080",
+    "costprice": 300,
+    "price": 490,
+    "category": "ความงาม"
+  },
+  {
+    "id": 8,
+    "name": "Sulwhasoo First care 60ml",
+    "img": "https://i.imgur.com/l1aRdiR.jpeg",
+    "barcode": "8809643064880",
+    "costprice": 1200,
+    "price": 1690,
+    "category": "ความงาม"
+  },
+  {
+    "id": 9,
+    "name": "Kiehl's Dark Spot Solution 50ml",
+    "img": "https://i.imgur.com/WaAvGJx.jpeg",
+    "barcode": "3605970363222",
+    "costprice": 1750,
+    "price": 2290,
+    "category": "ความงาม"
+  },
+  {
+    "id": 10,
+    "name": "Origins Muchroom Relief Resilence 200ml",
+    "img": "https://i.imgur.com/RB42HJY.jpeg",
+    "barcode": "717334229594",
+    "costprice": 550,
+    "price": 790,
+    "category": "ความงาม"
+  }
+]
